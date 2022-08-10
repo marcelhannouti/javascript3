@@ -30,8 +30,7 @@ console.log(typeof(valor))
 
 
 
-function fun (){
-    var numero3 =dsmvvs
-    console.log(numero3)
+if(true){
+    let nombre = 123
+    console.log(nombre)
 }
-fun()
